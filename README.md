@@ -1,5 +1,8 @@
-# Website draft URL
-"https://648ab936783f1f5249b0a124--sushil7276-contact-list.netlify.app"
+# Website URL
+"https://sushil7276-contact-list.netlify.app"
+
+# Unique deploy URL
+"https://648ab9d035a90b517cf00411--sushil7276-contact-list.netlify.app"
 
 # Function logs
 "https://app.netlify.com/sites/sushil7276-contact-list/functions?scope=deploy:648ab936783f1f5249b0a124"
