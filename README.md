@@ -1,3 +1,12 @@
+# Website draft URL
+"https://648ab936783f1f5249b0a124--sushil7276-contact-list.netlify.app"
+
+# Function logs
+"https://app.netlify.com/sites/sushil7276-contact-list/functions?scope=deploy:648ab936783f1f5249b0a124"
+
+# Build logs
+"https://app.netlify.com/sites/sushil7276-contact-list/deploys/648ab936783f1f5249b0a124"
+
 # Contact App
 
 Contact App is a web application that allows you to manage your contacts. You can add, edit, and delete contacts using this application. It is built using React and utilizes React Router and Context API for state management.
